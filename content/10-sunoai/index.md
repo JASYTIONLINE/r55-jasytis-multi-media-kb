@@ -47,16 +47,17 @@ The goal: one cohesive system that takes you from **lyrics → SSIG → video** 
   Central glossary of all terms used across the KB, with definitions and cross-links.  
 
 ---
+
 ## Quick Links
-- [Suno Guide – Writing Lyrics & SSIGs (4.5)](suno-guide.md)
-- [Example Lyric Sheet – I'll Always Remember](example-lyric-sheet-I'll-always-remeber.md)
+- [Purpose](#purpose)
+- [Suno Guide — Writing Lyrics & SSIGs (4.5)](suno-guide.md)
+- [Example Lyric Sheet — I'll Always Remember](example-lyric-sheet-I'll-always-remeber.md)
 - [Music Video Creation Guide](guide-music-video-creation.md)
-- [Suno Glossary – Master Reference](suno-glossary.md)
-- [Suno KB Portal Index](index.md)
-- [Repository README](readme.md)
+- [Suno Glossary — Master Reference](suno-glossary.md)
 
 ## Navigation Links
 - [Glossary](suno-glossary.md)
-- [KB Portal Index](index.md)
-- [Songs Folder Index](/content/sunoai/songs/index.md)
----
+- [Root KB Portal Index](../../index.md)
+- [PMO Index](../00-mm-pmo/index.md)
+- [Songs Folder Index](songs/index.md)
+

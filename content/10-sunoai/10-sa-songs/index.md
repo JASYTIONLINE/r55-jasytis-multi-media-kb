@@ -40,19 +40,15 @@ This is the **song library**: once a sheet appears here, it represents a finishe
 
 ---
 
-## Quick Links  
-- [Suno Guide – Writing Lyrics & SSIGs (4.5)](../suno-guide.md)  
-- [Example Lyric Sheet – I'll Always Remember](example-lyric-sheet-I'll-always-remeber.md)  
-- [Music Video Creation Guide](../guide-music-video-creation.md)  
-- [Suno Glossary – Master Reference](../suno-glossary.md)  
-- [Suno KB Portal Index](../index.md)  
-- [Repository README](../readme.md)  
+## Quick Links
+- [Purpose](#purpose)
+- [Suno Guide — Writing Lyrics & SSIGs (4.5)](suno-guide.md)
+- [Example Lyric Sheet — I'll Always Remember](example-lyric-sheet-I'll-always-remeber.md)
+- [Music Video Creation Guide](guide-music-video-creation.md)
+- [Suno Glossary — Master Reference](suno-glossary.md)
 
----
-
-## Navigation Links  
-- [Glossary](../suno-glossary.md)  
-- [KB Portal Index](../index.md)  
-- [Songs Folder Index](index.md)  
-
----
+## Navigation Links
+- [Glossary](suno-glossary.md)
+- [Root KB Portal Index](../../index.md)
+- [PMO Index](../00-mm-pmo/index.md)
+- [Songs Folder Index](songs/index.md)

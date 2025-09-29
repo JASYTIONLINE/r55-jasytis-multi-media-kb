@@ -55,5 +55,5 @@ The goal is to keep every aspect of **production → publishing → distribution
 - [Production Tools Index](20-tools/index.md)  
 - [Portfolio Index](30-portfolio/index.md)  
 - [Root KB Portal Index](index.md)  
-- [Site Readme](readme.md)  
+- [Site Readme](README.md)  
 
