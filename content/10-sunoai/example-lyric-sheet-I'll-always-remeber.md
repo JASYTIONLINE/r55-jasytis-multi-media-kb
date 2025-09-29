@@ -11,23 +11,19 @@ This file is an **example of a finished, production-ready lyric sheet** for Suno
 It contains only the lyrics and tags exactly as they should appear when entered into Suno, with no extra guidance or annotations.  
 
 ---
-## Table of Contents
+## Jump Links
 - [Purpose](#Purpose)
 - [Lyrics](#Lyrics)
 - [Refrain](#refrain-1)
 - [Bridge](#bridge)
-- [Refrain](#refrain-2)
 - [Outro](#outro)
-- [End](#end)
 - [Quick Links](#quick-links-and-navigation)
 
 ---
+## Purpose  
+This page exists to show you exactly what a **production-ready lyric sheet** looks like in Suno v4.5. Instead of teaching or explaining, it simply demonstrates a finished product: a locked sheet you could paste into Suno today and generate music with no edits. You’ll see how the [tag structure](suno-glossary.md#section-tags) works in practice — `[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]`, `[Outro]`, `[End]` — and how those tags keep the lyrics aligned with the [Style Signature](suno-glossary.md#ssig-style-signature).  
 
-## Purpose
-The what and why of this page  
-- Demonstrates a complete, locked lyric sheet.  
-- Shows correct tag structure (`[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]`, `[Outro]`, `[End]`).  
-- Mirrors exactly what you would paste into Suno for generation.  
+If you’re coming from the [Suno Guide](../suno-guide.md), this page gives you the payoff: the exact formatting you’ve been preparing to use. If you’re headed toward the [Music Video Creation Guide](../guide-music-video-creation.md), think of this as the starting point your storyboard will build on. It’s the **“show, don’t tell”** piece of the knowledge base — lean, clean, and meant to convince you that yes, Suno will do what you want when your lyrics and [SSIG](suno-glossary.md#ssig-style-signature) look like this.  
 
 ---
 
@@ -90,7 +86,7 @@ Becomes final today
 What once was forever  
 Just faded away  
 
-#### [Refrain-1]  
+#### [Refrain-2]  
 I'll always remember the song they were playin'  
 
 #### [Verse-9]  
@@ -113,7 +109,7 @@ Waitin’ for someone to sing me their song
 So many dreams I held down deep  
 Till your love came and made me strong  
 
-#### [Refrain-2]  
+#### [Refrain-3]  
 I'll always remember the song they were playin'  
 The first time we danced, hearts gently swayin'  
 
